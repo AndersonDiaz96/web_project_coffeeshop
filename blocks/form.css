@@ -117,10 +117,3 @@
   border-radius: 2px;
   flex-direction: row-reverse;
 }
-
-.form_checkbox-input {
-  width: 20px;
-  height: 20px;
-  cursor: pointer;
-  margin-right: 12px;
-}
